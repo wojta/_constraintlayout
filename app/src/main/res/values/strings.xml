@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">constraintlayout</string>
+    <string name="clickJ8">Click from Java 1.8!</string>
+    <string name="j8text">Lambda based listener invoked!</string>
 </resources>
